@@ -1,0 +1,4 @@
+projectName: vault-webui
+template:
+  name: choo-cli
+  source: choo-cli
