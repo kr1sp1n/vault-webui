@@ -1,5 +1,6 @@
 # vault-webui [![built with choo v3](https://img.shields.io/badge/built%20with%20choo-v3-ffc3e4.svg?style=flat-square)](https://github.com/yoshuawuyts/choo)
 
+Web UI for Hashicorp's vault.
 
 Choo-cli created a directory structure that [we've found to be optimal](https://github.com/yoshuawuyts/choo-handbook/blob/master/designing-for-reusability.md) for slim
 applications and reusability.
